@@ -37,6 +37,7 @@
   "dependencies": {
     "@vue/shared": "3.3.0-alpha.4",
     "@vue/runtime-core": "3.3.0-alpha.4",
-    "csstype": "^2.6.8"
+    "csstype": "^2.6.8",
+    "html-parsed-element": "^0.4.1"
   }
 }
